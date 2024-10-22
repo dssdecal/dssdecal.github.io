@@ -1,9 +1,6 @@
 <link rel="stylesheet" href="sp17/theme/css/main.css" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-Data 198: Introduction to Real World Data Science
-====
-
 Offerings
 ----
 
