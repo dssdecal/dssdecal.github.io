@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="sp17/theme/css/main.css" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
+The template for this website is courtesy of UC Berkeley's DATA c8: Foundations of Data Science Course
+
 Offerings
 ----
 
