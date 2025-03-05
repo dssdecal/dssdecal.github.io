@@ -3,7 +3,7 @@
 
 ## Data 198: Introduction to Real World Data Science
 
-The Introduction to Real-World Data Science DeCal, offered by the Data Science Society at Berkeley, 
+The Introduction to Real-World Data Science DeCal, offered by the [Data Science Society at Berkeley](https://www.dssberkeley.org/), 
 is a semester-long course focused on hands-on, project-based learning. 
 Unlike traditional classes, this course gives students full creative control over a data science 
 project of their choosing, allowing them to collaborate and apply key concepts in real-world scenarios. 
@@ -21,5 +21,3 @@ You are welcome to use any of the materials you find.
 -  [Fall 2024](./fa24)
 -  [Spring 2024](https://jegeronimo.github.io/dss-data-198/)
 
-Materials
----
