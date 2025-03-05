@@ -8,8 +8,6 @@ is a semester-long course focused on hands-on, project-based learning.
 Unlike traditional classes, this course gives students full creative control over a data science 
 project of their choosing, allowing them to collaborate and apply key concepts in real-world scenarios. 
 Guided by mentorship from committee members, students will navigate the entire data science lifecycle -- from crafting a project proposal and performing exploratory data analysis, to engineering and evaluating machine learning models. 
-Covering both foundational and unconventional topics, the course integrates programming instruction with practical applications, ensuring students gain direct experience at each stage. 
-Additionally, students will engage with industry professionals through panels and speaker events, refining their technical skills while preparing for future opportunities in a supportive, low-pressure learning environment.
 
 The template for this website is courtesy of UC Berkeley's DATA c8: Foundations of Data Science Course
 
