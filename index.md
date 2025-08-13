@@ -17,6 +17,7 @@ Offerings
 Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
 
+-  <a href="https://dssdecal.org/fa25/" target="_blank" style="color:rgb(80, 141, 120);">Fall 2025</a>
 -  <a href="https://dssdecal.org/sp25/" target="_blank" style="color:rgb(80, 141, 120);">Spring 2025</a>
 -  <a href="https://dssdecal.org/fa24/" target="_blank" style="color:rgb(80, 141, 120);">Fall 2024</a>
 -  <a href="https://jegeronimo.github.io/dss-data-198/" target="_blank" style="color:rgb(80, 141, 120);">Spring 2024</a>
